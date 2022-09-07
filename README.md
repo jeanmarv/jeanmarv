@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **POO on python**
 
-- 👨‍💻 My projects are available at **https://jeanmarv.github.io/**
+- 👨‍💻 My projects are available at **under development**
 
 - 📫 How to reach me **jeanvanzella91@gmail.com**
 
-- 📄 Know about my experiences ["resume under development"]("resume under development")
+- 📄 Know about my experiences **under development**
 
 - ⚡ Fun fact: **The Firefox logo isn’t a fox… it’s a red panda!**
 
