@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jeanvanzella91@gmail.com**
 
-- 📄 Know about my experiences **under development**
+- 📄 Know about my experiences by my CV: **https://postimg.cc/3W7YX3fh**
 
 - ⚡ Fun fact: **The Firefox logo isn’t a fox… it’s a red panda!**
 
