@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **POO on python**
 
-- 👨‍💻 My projects are available at **jeanmarv.github.io**
+- 👨‍💻 My projects are available at **https://jeanmarv.github.io/**
 
 - 📫 How to reach me **jeanvanzella91@gmail.com**
 
