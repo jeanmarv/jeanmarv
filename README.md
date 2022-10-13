@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Jean Marcel De Oliveira</h1>
 <h3 align="center">A technology enthusiastic, with a degree on civil Engineering, on a career transition to the web development area. Learned Full stack web development at Trybe, excited to start a new career on the area</h3>
 
-- 🌱 I’m currently learning **POO on python**
+- 🌱 I’m currently learning **POO, on python**
 
 - 👨‍💻 My projects are available at **https://jeanmarv.github.io/**
 
